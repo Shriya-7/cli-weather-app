@@ -1,6 +1,6 @@
 # CLI Weather App
 
-A command-line application that fetches and displays the current weather for a city using the [Open-Meteo](https://open-meteo.com/) API (no API key required).
+A command-line application that fetches and displays the current weather for a city using the [Open-Meteo](https://open-meteo.com/) API (no API key required). Built with Node.js and a modern, AI-assisted workflow.
 
 ## Requirements
 
